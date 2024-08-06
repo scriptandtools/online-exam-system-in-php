@@ -1,1 +1,3 @@
 ## online-exam-system-in-php
+
+To begin using the online exam system, users select a subject and click “start” to commence their exam. During the exam, each answer is submitted individually. Once all questions are answered, users can view their exam scores, detailing correct and incorrect responses. The system also highlights the top scores achieved by other users and their respective colleges. Upon completing their assessments, examiners can log out. Administrators enjoy additional privileges, including monitoring the total number of exam participants and curating questions and answers across various quiz categories. Both users and examiners contribute feedback through a dedicated form, enhancing system functionality and user engagement in the online exam experience.
