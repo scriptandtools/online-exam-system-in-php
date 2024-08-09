@@ -5,6 +5,73 @@ To begin using the online exam system, users select a subject and click “start
 
 <img width="946" alt="Screenshot 2024-06-29 162450" src="https://github.com/user-attachments/assets/ed65397e-d05e-4a81-8d0b-647555297058">
 
+## Technologies:
+HTML: Page layout and design
+
+CSS: Design
+
+JS: Fontend
+
+PHP: Backend
+
+Bootstrap
+
+Java Script
+
+## Supported Operating Systems:
+You can run this project in the following operating systems:
+
+Windows
+
+MAC
+
+Linux
+## Features:
+
+User Registration & Login
+
+Student Profile Management
+
+Role-Based Access Control
+
+Admin Dashboard
+
+Exam Creation & Management
+
+Question Bank Management
+
+Multiple Question Types (MCQs, True/False, Essay, etc.)
+
+Timed Exams
+
+Randomized Questions
+
+Exam Scheduling
+
+Exam Invigilation (Proctoring)
+
+Automated Grading
+
+Manual Grading
+
+Result Generation & Reports
+
+Certificate Generation
+
+Exam Retake Management
+
+Progress Tracking
+
+Answer Review & Feedback
+
+Exam History & Records
+
+Subject & Topic Management
+
+Course Management
+
+Study Materials & Resources
+
 ## **Installation**
 To run this project, you must have installed a virtual server i.e. XAMPP on your PC (for Windows). This Doctor Appointment is in PHP with source code is free to download, Use for educational purposes only!
 
